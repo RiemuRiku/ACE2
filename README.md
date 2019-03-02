@@ -1,5 +1,6 @@
 # ACE2
-Password Manager with aavielon. Made for "Programming 2" - course @JYU. Aavielon was the project leader
+Password Manager with aavielon. Made for "Programming 2" - course @JYU. Aavielon was the project leader.
+
 Encrypts and decrypts passwords with AES SHA-256 -bit encryption. Saves passwords to an SQLite database.
 
 
